@@ -1,7 +1,32 @@
-# 💫 Hi 👋, I'm Mohd Shadab
-**UI/UX & Graphic Designer || Generative & Agentic AI Enthusiast || IIT Madras (BS DS & Applications)**
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-Email Me 👉 ✉️ **mohdshadab4549@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h1 align="center">Hi 👋, I'm Mohd Shadab</h1>
+<h3 align="center">UI/UX & Graphic Designer || Generative & Agentic AI Enthusiast IIT Madras (BS DS & Applications)</h3>
+
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=shadab80k&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Shadab" /> 
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 
 - 🎓 **I’m currently pursuing :**  BS Data Science & Applications @ IIT Madras
 - 🌱 **I’m currently learning:** Exploring AI Agents, Agentic AI & Generative AI
