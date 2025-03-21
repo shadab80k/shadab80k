@@ -35,7 +35,7 @@
 - 👯 **I’m looking to collaborate on:** Human-Centered UI/UX & Immersive Design
 - 🤔 **I’m looking for help with:** AI-driven UX & Intelligent Automation
 - 💬 **Ask me about:** UI/UX, Graphic Design, Ai Agents & Content Creation
-- 📫 **How to reach me:**  LinkedIn or Email!
+- 📫 **How to reach me:**  LinkedIn or Email
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Designing is my passion, but AI keeps me hooked 🚀
   
