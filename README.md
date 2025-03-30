@@ -32,7 +32,7 @@
 
 - 🎓 **I’m currently pursuing :**  BS Data Science & Applications @ IIT Madras
 - 🌱 **I’m currently learning:** Exploring AI Agents, Agentic AI & Generative AI
-- 👯 **I’m looking to collaborate on:** Human-Centered UI/UX & ImmersiveDesign
+- 👯 **I’m looking to collaborate on:** Human-Centered UI/UX, Immersive Design
 - 🤔 **I’m looking for help with:** AI-driven UX & Intelligent Automation
 - 💬 **Ask me about:** UI/UX, Graphic Design, Ai Agents & Promt Engineering
 - 📫 **How to reach me:**  LinkedIn or Email
