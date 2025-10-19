@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Mohd Shadab</h1>
-<h3 align="center">AI-Assisted Full Stack Developer || Generative & Agentic AI Enthusiast || IIT Madras (BS DS & Applications)</h3>
+<h3 align="center">AI-Assisted Full Stack Developer || IIT Madras (BS DS & Applications)</h3>
 
 
 <p align="center"> 
@@ -31,10 +31,10 @@
 <img align="right" alt="Coding" width="350" src="https://github.com/shadab80k/shadab80k/blob/main/code.gif">
 
 - 🎓 **I’m currently pursuing :**  BS Data Science & Applications @ IIT Madras
-- 🌱 **I’m currently learning:** Exploring Agentic AI & Generative AI
-- 👯 **I’m looking to collaborate on:** Human-Centered UI/UX & Immersive Design
-- 🤔 **I’m looking for help with:** AI-driven UX & Intelligent Automation
-- 💬 **Ask me about:** UI/UX, Graphic Design, Ai Agents & Promt Engineering
+- 🌱 **I’m currently learning:** AI agents, LLMs, and full-stack dev (React, Node, Supabase)
+- 👯 **I’m looking to collaborate on:** AI-powered web/mobile apps  or tech solutions
+- 🤔 **I’m looking for help with:** scaling production apps, advanced AI/LLM integrations
+- 💬 **Ask me about:** AI Integration, or Full-Stack Dev & Promt Engineering
 - 📫 **How to reach me:**  LinkedIn or Email
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Designing is my passion, but AI keeps me hooked 🚀
@@ -43,7 +43,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shadab80k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shadab80k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadxzz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadab80k) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Shadab80k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shadab_80k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdshadab4549@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shadab80k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadxzz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadab80k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shadab_80k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdshadab4549@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
